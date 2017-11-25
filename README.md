@@ -73,7 +73,7 @@ Clone [Project](https://github.com/izofer/izo-orderray) of github.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/izofer/izo-orderray/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/izofer/izo-orderray/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
