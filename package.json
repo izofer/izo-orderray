@@ -1,6 +1,6 @@
 {
   "name": "izo-orderray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "orderray can order an array (ascendant or descendant) of kind of numbers or string",
   "main": "dist/src/orderray.js",
   "scripts": {

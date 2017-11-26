@@ -26,7 +26,7 @@ npm install izo-orderray
 You can use it typing:
 
 ```
-import izo-orderray from 'izo-orderray'
+import orderray from 'izo-orderray'
 
 ----------------------------------------
 
