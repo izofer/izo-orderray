@@ -28,6 +28,12 @@ You can use it typing:
 ```
 import orderray from 'izo-orderray'
 
+or
+
+also you can use in your html a script src
+
+<script src="izo-orderray/dist/src/src_orderray.js"></script>
+
 ----------------------------------------
 
 oderray admits three Parameters

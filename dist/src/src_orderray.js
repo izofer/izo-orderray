@@ -1,9 +1,3 @@
-'use strict';
-
-Object.defineProperty(exports, "__esModule", {
-	value: true
-});
-exports.default = orderray;
 function orderray(arr) {
 	var ord = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'asc';
 	var type = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : 'numbers';
